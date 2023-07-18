@@ -89,28 +89,24 @@
       "publicationDate": "1890-07-01"
     },
     {
-      "_id": "64b37b6e6e0a2e363a323e39",
       "title": "Moby-Dick",
       "author": "Herman Melville",
       "genre": "Adventure",
       "publicationDate": "1851-10-18"
     },
     {
-      "_id": "64b37b6e6e0a2e363a323e3e",
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
       "genre": "Gothic",
       "publicationDate": "1847-10-16"
     },
     {
-      "_id": "64b37b6e6e0a2e363a323e3b",
       "title": "Frankenstein",
       "author": "Mary Shelley",
       "genre": "Gothic",
       "publicationDate": "1818-01-01"
     },
     {
-      "_id": "64b37b6e6e0a2e363a323e35",
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "genre": "Romance",
