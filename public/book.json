@@ -1,0 +1,120 @@
+
+   [
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic",
+      "publicationDate": "8th century BC",
+      "reviews": []
+    },
+    {
+      "title": "someone like you🥲",
+      "author": "Riyad Hossain 📚",
+      "genre": "Self-Help",
+      "publicationDate": "2023-07-17",
+      "addedBy": "amit@gmail.com",
+      "reviews": [
+        {
+          "userEmail": "riyad@gmail.com",
+          "review": "yes bro yes. but where is toast.\nNow, the toast will work. I told you man"
+        }
+      ]
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "publicationDate": "1988-01-01",
+      "reviews": []
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "genre": "Magical Realism",
+      "publicationDate": "1967-05-30"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publicationDate": "1960-07-11"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publicationDate": "1954-07-29"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Coming of Age",
+      "publicationDate": "1951-07-16"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publicationDate": "1949-06-08"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publicationDate": "1937-09-21"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "publicationDate": "1932-01-01"
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "genre": "Modernist",
+      "publicationDate": "1927-05-05"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "publicationDate": "1925-04-10"
+    },
+    {
+      "_id": "64b37b6e6e0a2e363a323e41",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Gothic",
+      "publicationDate": "1890-07-01"
+    },
+    {
+      "_id": "64b37b6e6e0a2e363a323e39",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "publicationDate": "1851-10-18"
+    },
+    {
+      "_id": "64b37b6e6e0a2e363a323e3e",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Gothic",
+      "publicationDate": "1847-10-16"
+    },
+    {
+      "_id": "64b37b6e6e0a2e363a323e3b",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic",
+      "publicationDate": "1818-01-01"
+    },
+    {
+      "_id": "64b37b6e6e0a2e363a323e35",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publicationDate": "1813-01-28"
+    }
+  ]
+
