@@ -9,13 +9,13 @@
     },
     {
       "title": "someone like you🥲",
-      "author": "Riyad Hossain 📚",
+      "author": "Amit sharma 📚",
       "genre": "Self-Help",
       "publicationDate": "2023-07-17",
       "addedBy": "amit@gmail.com",
       "reviews": [
         {
-          "userEmail": "riyad@gmail.com",
+          "userEmail": "amit@gmail.com",
           "review": "yes bro yes. but where is toast.\nNow, the toast will work. I told you man"
         }
       ]
@@ -47,7 +47,7 @@
     },
     {
       "title": "The Catcher in the Rye",
-      "author": "J.D. Salinger",
+      "author": "shill paul",
       "genre": "Coming of Age",
       "publicationDate": "1951-07-16"
     },
@@ -71,7 +71,7 @@
     },
     {
       "title": "To the Lighthouse",
-      "author": "Virginia Woolf",
+      "author": "Alamin hossain",
       "genre": "Modernist",
       "publicationDate": "1927-05-05"
     },
@@ -82,7 +82,7 @@
       "publicationDate": "1925-04-10"
     },
     {
-      "_id": "64b37b6e6e0a2e363a323e41",
+
       "title": "The Picture of Dorian Gray",
       "author": "Oscar Wilde",
       "genre": "Gothic",
@@ -96,7 +96,7 @@
     },
     {
       "title": "Jane Eyre",
-      "author": "Charlotte Brontë",
+      "author": "chondrika ",
       "genre": "Gothic",
       "publicationDate": "1847-10-16"
     },
